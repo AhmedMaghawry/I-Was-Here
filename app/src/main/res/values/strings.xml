@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">I Was Here</string>
+    <string name="title_activity_maps">Home</string>
+
+    <string name="title_activity_comment">Comment</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_comm">CommActivity</string>
+</resources>
